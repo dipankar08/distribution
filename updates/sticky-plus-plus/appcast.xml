@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sticky++</title>
+        <item>
+            <title>1.9</title>
+            <pubDate>Mon, 14 Sep 2026 22:42:05 +0100</pubDate>
+            <link>https://github.com/dipankar08/distribution/releases/tag/sticky-plus-plus-v1.9</link>
+            <sparkle:version>1.9</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Automatic updates added.
+]]></description>
+            <enclosure url="https://github.com/dipankar08/distribution/releases/download/sticky-plus-plus-v1.9/StickyPlusPlus-1.9.dmg" length="6934116" type="application/octet-stream" sparkle:edSignature="Pt25qXN5lQ+WKy3fl1X7aAHGU/hi4zcS2FpV+ebvspJEEQM+mZf/n23r7fl9hVkOz/XPNoKmn0UmNqsnh7gEBg=="/>
+        </item>
+    </channel>
+</rss>
